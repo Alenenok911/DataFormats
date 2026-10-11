@@ -1,0 +1,31 @@
+{
+  "name": "Russischer Borschtsch",
+  "portionen": 6,
+  "zeitangabeMinuten": 60,
+  "schwierigkeitsgrad": "leicht",
+  "vegetarisch": false,
+  "zutaten": [
+    "Suppe: 300 g Schweinsschopfbraten (ausgelöst)",
+    "Suppe: 1 Zwiebel",
+    "Suppe: 1 Bund Wurzelwerk",
+    "Einlage: 250 g Weißkraut",
+    "Einlage: 200 g Rote Rüben",
+    "Einlage: 200 g Karotten",
+    "Einlage: 200 g Erdäpfel (speckig)",
+    "Einlage: 200 g Knollensellerie",
+    "Einlage: 1 Zwiebel",
+    "Einlage: 150 g Frühstücksspeck",
+    "Einlage: 125 ml Sauerrahm",
+    "Salz",
+    "Pfeffer",
+    "Pfefferkörner",
+    "Lordbeerblatt",
+    "Paradeismark",
+    "Essig (Rotweinessig)",
+    "Öl (oder Margarine)"
+  ],
+  "quelle": {
+    "name": "GUSTO",
+    "url": "https://www.gusto.at/rezepte/russischer-borschtsch-7684962"
+  }
+}
