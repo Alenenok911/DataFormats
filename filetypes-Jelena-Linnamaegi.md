@@ -82,7 +82,7 @@ quelle:
     name: GUSTO
     url: https://www.gusto.at/rezepte/russischer-borschtsch-7684962
 ```
-S
+
 ## Als XML (`daten.xml`)
 
 ```xml
