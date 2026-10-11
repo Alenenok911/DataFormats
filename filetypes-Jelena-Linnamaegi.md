@@ -54,10 +54,10 @@
 
   ```yaml
   # Rezept der Russischer Borschtsch
-  name: "Russischer Borschtsch"
+  name: Russischer Borschtsch
   portionen: 6
   zeitangabeMinuten: 60
-  schwierigkeitsgrad: "leicht"
+  schwierigkeitsgrad: leicht
   vegetarisch: false
   zutaten:
    - "Suppe: 300 g Schweinsschopfbraten (ausgelöst)"
@@ -71,18 +71,18 @@
    - "Einlage: 1 Zwiebel"
    - "Einlage: 150 g Frühstücksspeck"
    - "Einlage: 125 ml Sauerrahm"
-   - "Salz"
-   - "Pfeffer"
-   - "Pfefferkörner"
-   - "Lorbeerblatt"
-   - "Paradeismark"
-   - "Essig (Rotweinessig)"
-   - "Öl (oder Margarine)"
+   -  Salz
+   -  Pfeffer
+   -  Pfefferkörner
+   -  Lorbeerblatt
+   -  Paradeismark
+   -  Essig (Rotweinessig)
+   -  Öl (oder Margarine)
 quelle:
-    name: "GUSTO"
-    url: "https://www.gusto.at/rezepte/russischer-borschtsch-7684962"
+    name: GUSTO
+    url: https://www.gusto.at/rezepte/russischer-borschtsch-7684962
 ```
-
+S
 ## Als XML (`daten.xml`)
 
 ```xml
